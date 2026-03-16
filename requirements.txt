@@ -1,0 +1,4 @@
+# Requirements for the Linux Sec Audit project
+
+requests
+pytest
